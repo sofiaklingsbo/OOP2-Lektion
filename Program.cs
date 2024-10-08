@@ -1,6 +1,6 @@
 new Game().Run();
 
-
+//hej
 public interface ITrainerFactory
 {
     Trainer Create(string defaultName);
